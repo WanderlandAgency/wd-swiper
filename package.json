@@ -1,6 +1,6 @@
 {
   "name": "@wanderland-agency/wd-swiper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Swiper Attribute for Webflow",
   "main": "dist/index.js",
   "type": "module",
