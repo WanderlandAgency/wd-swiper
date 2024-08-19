@@ -1,5 +1,11 @@
 # @wanderland-agency/wd-swiper
 
+## 1.0.1
+
+### Patch Changes
+
+-   9cf9976: Fix pagine active state
+
 ## 1.0.0
 
 ### Major Changes
