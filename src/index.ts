@@ -60,7 +60,7 @@ Webflow.push(() => {
                 PAGINATION: {
                     wrapper: $(this).find('.swiper-bullet-wrapper')[0],
                     class: 'swiper-bullet',
-                    activeClass: 'is-active',
+                    activeClass: 'is--active',
                     type: 'button',
                     isClickable: swiperElement.getAttribute('swiper-pagination-clickable') === 'true',
                 },
